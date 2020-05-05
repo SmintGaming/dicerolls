@@ -1,0 +1,23 @@
+{
+  "name": "diceroll",
+  "version": "1.1.0",
+  "description": "An npm Package For Rolling Dice",
+  "main": "dice.js",
+  "scripts": {
+    "test": "node dice.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmintGaming/diceroll.git"
+  },
+  "keywords": [
+    "dice",
+    "rng"
+  ],
+  "author": "Smint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmintGaming/diceroll/issues"
+  },
+  "homepage": "https://github.com/SmintGaming/diceroll#readme"
+}
